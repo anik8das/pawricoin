@@ -1,5 +1,5 @@
 ### Run Migrations
-truffle migrate
+`truffle migrate`
 
 ### Run tests
-truffle test
+`truffle test`
