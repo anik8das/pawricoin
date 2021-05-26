@@ -5,7 +5,7 @@ contract PawriToken {
     // defining token parameters
     uint256 public totalSupply;
     string public name = "pawricoin";
-    string public symbol = "PAW";
+    string public symbol = "PRTY";
     string public standard = "pawricoin v1.0";
 
     // defining maps

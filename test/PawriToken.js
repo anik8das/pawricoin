@@ -9,7 +9,7 @@ contract('PawriToken', function(accounts){
             assert.equal(name, "pawricoin", 'does not have the correct name');
             return tokenInstance.symbol()
         }).then(function(symbol){
-            assert.equal(symbol, 'PAW', 'does not have the correct symbol');
+            assert.equal(symbol, 'PRTY', 'does not have the correct symbol');
             return tokenInstance.standard()
         }).then(function(standard){
             assert.equal(standard, 'pawricoin v1.0', 'does not have the correct standard');
