@@ -3,3 +3,6 @@
 
 ### Run tests
 `truffle test`
+
+### Run console
+`truffle console`
