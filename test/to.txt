@@ -1,0 +1,2 @@
+PawriToken.deployed().then((instance)=> {token=instance;})
+PawriTokenSale.deployed().then((token)=>{tokenInstance = token;})
